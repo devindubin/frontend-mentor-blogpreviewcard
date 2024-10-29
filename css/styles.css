@@ -22,8 +22,8 @@ body {
 
 .card {
   background-color: hsl(0, 0%, 100%);
-  width: 350px;
-  height: 475px;
+  width: 360px;
+  height: 480px;
   border: 1px solid black;
   border-radius: 1rem;
   box-shadow: 0.5rem 0.5rem black;
